@@ -19,7 +19,8 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "visualstudioexptteam.vscodeintellicode",
-    "mhutchie.git-graph"
+    "mhutchie.git-graph",
+    "yzhang.markdown-all-in-one"
   ],
   "postCreateCommand": "npm install"
   // "remoteUser": "node"
